@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "489600419430",
+    "firebase_url": "https://avengersapp-e6a3d.firebaseio.com",
+    "project_id": "avengersapp-e6a3d",
+    "storage_bucket": "avengersapp-e6a3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489600419430:android:99d7f845f133a74c",
+        "android_client_info": {
+          "package_name": "com.example.gamedetailapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489600419430-t0ip7jnmjk9ss3olskrvhkt8frpl8jmb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gamedetailapp",
+            "certificate_hash": "b58f04b8b8d850e9baf76be2cc219acc1970f789"
+          }
+        },
+        {
+          "client_id": "489600419430-7fieopf123ordl2aidjd4o9b9bt32utp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmQlNeLBZhopnux9nxOunqGG1xdNSBbA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489600419430-7fieopf123ordl2aidjd4o9b9bt32utp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
